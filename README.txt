@@ -13,3 +13,4 @@ Day02
     02. UseTransform                                    ===> 使用Transform属性
     03. CommonProperties                                ===> 控件的常见属性
     04. PictureViewer                                   ===> 图片浏览器
+    05. PictureViewPackage                              ===> 图片浏览器代码封装

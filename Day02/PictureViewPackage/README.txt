@@ -1,0 +1,5 @@
+PictureViewPackage
+
+图片浏览器代码封装
+
+将公共代码封装到一个方法中
