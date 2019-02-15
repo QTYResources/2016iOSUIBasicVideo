@@ -7,3 +7,7 @@ Day01
     02. UseUIButton                                     ===> 按钮的使用介绍
     03. CodeEncapsulation                               ===> 按钮的使用介绍-封装代码
     04. DynamicCreationButton                           ===> 动态创建按钮
+
+Day02
+    01. QQTask                                          ===> QQ作业
+    
