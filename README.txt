@@ -15,3 +15,4 @@ Day02
     04. PictureViewer                                   ===> 图片浏览器
     05. PictureViewPackage                              ===> 图片浏览器代码封装
     06. TomCat                                          ===> UIImageView动画
+    07. TomCatPackage                                   ===> 汤姆猫（对代码进行封装，并解决应用占用内存过高问题）
