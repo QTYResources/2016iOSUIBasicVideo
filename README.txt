@@ -16,3 +16,4 @@ Day02
     05. PictureViewPackage                              ===> 图片浏览器代码封装
     06. TomCat                                          ===> UIImageView动画
     07. TomCatPackage                                   ===> 汤姆猫（对代码进行封装，并解决应用占用内存过高问题）
+    08. SetButtonProperity                              ===> 同时设置按钮的文字-图片-背景图（文档注释）
