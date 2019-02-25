@@ -20,4 +20,5 @@ Day02
 
 Day03
     01. JiuGongGe                                       ===> 应用管理-排列九宫格（代码实现九宫格）
+    02. ArrangeChildControls                            ===> 应用管理-添加子控件
     
