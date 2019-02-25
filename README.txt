@@ -19,6 +19,7 @@ Day02
     08. SetButtonProperity                              ===> 同时设置按钮的文字-图片-背景图（文档注释）
 
 Day03
-    01. JiuGongGe                                       ===> 应用管理-排列九宫格（代码实现九宫格）
-    02. ArrangeChildControls                            ===> 应用管理-添加子控件
+    01. JiuGongGe                                       ===> 应用管理——排列九宫格（代码实现九宫格）
+    02. ArrangeChildControls                            ===> 应用管理——添加子控件
+    03. SetChildControlData                             ===> 应用管理——设置子控件数据
     
