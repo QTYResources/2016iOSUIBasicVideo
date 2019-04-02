@@ -13,6 +13,8 @@
 		605343652224144A004C0F2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 605343642224144A004C0F2B /* Assets.xcassets */; };
 		605343682224144A004C0F2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 605343662224144A004C0F2B /* LaunchScreen.storyboard */; };
 		6053436B2224144A004C0F2B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6053436A2224144A004C0F2B /* main.m */; };
+		60534372222414D6004C0F2B /* app.plist in Resources */ = {isa = PBXBuildFile; fileRef = 60534371222414D6004C0F2B /* app.plist */; };
+		605343A2222427BA004C0F2B /* CZApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 605343A1222427BA004C0F2B /* CZApp.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		605343672224144A004C0F2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		605343692224144A004C0F2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6053436A2224144A004C0F2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		60534371222414D6004C0F2B /* app.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = app.plist; sourceTree = "<group>"; };
+		605343A0222427BA004C0F2B /* CZApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZApp.h; sourceTree = "<group>"; };
+		605343A1222427BA004C0F2B /* CZApp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZApp.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +63,9 @@
 		6053435A22241449004C0F2B /* DictionaryToModel */ = {
 			isa = PBXGroup;
 			children = (
+				605343A0222427BA004C0F2B /* CZApp.h */,
+				605343A1222427BA004C0F2B /* CZApp.m */,
+				60534371222414D6004C0F2B /* app.plist */,
 				6053435B22241449004C0F2B /* AppDelegate.h */,
 				6053435C22241449004C0F2B /* AppDelegate.m */,
 				6053435E22241449004C0F2B /* ViewController.h */,
@@ -128,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60534372222414D6004C0F2B /* app.plist in Resources */,
 				605343682224144A004C0F2B /* LaunchScreen.storyboard in Resources */,
 				605343652224144A004C0F2B /* Assets.xcassets in Resources */,
 				6053436322241449004C0F2B /* Main.storyboard in Resources */,
@@ -141,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				605343A2222427BA004C0F2B /* CZApp.m in Sources */,
 				6053436022241449004C0F2B /* ViewController.m in Sources */,
 				6053436B2224144A004C0F2B /* main.m in Sources */,
 				6053435D22241449004C0F2B /* AppDelegate.m in Sources */,

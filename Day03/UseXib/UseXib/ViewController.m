@@ -34,7 +34,7 @@
         // 4. 循环字典数组，把每个字典对象转换成一个模型对象
         for (NSDictionary *dict in arrayDict) {
             // 创建一个模型
-//            CZApp *model = [[CZApp alloc] initWithDict:dict];
+            //            CZApp *model = [[CZApp alloc] initWithDict:dict];
             CZApp *model = [CZApp appWithDict:dict];
             
             // 把模型加到arrayModels中

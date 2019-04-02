@@ -22,4 +22,5 @@ Day03
     01. JiuGongGe                                       ===> 应用管理——排列九宫格（代码实现九宫格）
     02. ArrangeChildControls                            ===> 应用管理——添加子控件
     03. SetChildControlData                             ===> 应用管理——设置子控件数据
-    
+    04. DictionaryToModel                               ===> 应用管理——字典转模型
+    05. UseXib                                          ===> 应用管理——使用xib
