@@ -24,3 +24,4 @@ Day03
     03. SetChildControlData                             ===> 应用管理——设置子控件数据
     04. DictionaryToModel                               ===> 应用管理——字典转模型
     05. UseXib                                          ===> 应用管理——使用xib
+    06. CreateViewWithXib                               ===> 应用管理——封装通过xib创建view的代码
