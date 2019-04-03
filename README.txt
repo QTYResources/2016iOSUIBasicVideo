@@ -25,3 +25,4 @@ Day03
     04. DictionaryToModel                               ===> 应用管理——字典转模型
     05. UseXib                                          ===> 应用管理——使用xib
     06. CreateViewWithXib                               ===> 应用管理——封装通过xib创建view的代码
+    07. PackageMVCDirectory                             ===> 应用管理——封装MVC目录
