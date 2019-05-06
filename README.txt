@@ -2,6 +2,8 @@
 
 2016iOS教程UI基础视频 源代码
 
+目录
+
 Day01
     01. AdditionCalculator                              ===> 加法计算器
     02. UseUIButton                                     ===> 按钮的使用介绍
@@ -26,3 +28,4 @@ Day03
     05. UseXib                                          ===> 应用管理——使用xib
     06. CreateViewWithXib                               ===> 应用管理——封装通过xib创建view的代码
     07. PackageMVCDirectory                             ===> 应用管理——封装MVC目录
+    08. DownloadButtonClick                             ===> 应用管理——实现下载按钮的点击事件
