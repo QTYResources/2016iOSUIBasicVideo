@@ -29,3 +29,4 @@ Day03
     06. CreateViewWithXib                               ===> 应用管理——封装通过xib创建view的代码
     07. PackageMVCDirectory                             ===> 应用管理——封装MVC目录
     08. DownloadButtonClick                             ===> 应用管理——实现下载按钮的点击事件
+    09. XibTest                                         ===> Xib测试
