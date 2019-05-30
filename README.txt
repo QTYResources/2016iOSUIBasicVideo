@@ -33,6 +33,8 @@ Day03
 
 Day04
     01. NextBigPicture                                  ===> 超级猜图——下一题和大图
+    02. GenerateAnswer                                  ===> 超级猜图（生成答案按钮）
+    03. SuperGuess3                                     ===> 超级猜图（生成待选项按钮和待选按钮单击事件）
 
 Day10 
     01.
